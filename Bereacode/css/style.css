@@ -1315,14 +1315,6 @@ form button{
         height: 100% !important;
         width: 100% !important;
       }
-      .portfolio .column .title{
-        top: 100px !important;
-        left: 10px !important;
-      }
-      .portfolio .column .explore-projects{
-        bottom: 50px !important;
-        right: 6px !important;
-      }
 }
 @media only screen and (max-width: 994px) {
     .container{
